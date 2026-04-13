@@ -16,11 +16,13 @@ comparado com uma estrutura linear (lista) como linha de base.
 
 ```
 projeto/
-├── tabela_hash.py        # código principal
-├── tale.txt              # texto em inglês (Tale of Two Cities)
-├── quincas_borba.txt     # texto em português (Machado de Assis)
-├── resultados.csv        # gerado automaticamente ao rodar
-└── histogramas/          # pasta gerada automaticamente com os gráficos
+├── orientacao_projeto01.pdf    # PDF de orientação
+├── tabela_hash.py              # código principal
+├── tale.txt                    # texto em inglês (Tale of Two Cities)
+├── quincas_borba.txt           # texto em português (Machado de Assis)
+├── resultados.csv              # gerado automaticamente ao rodar
+├── histogramas                 # pasta gerada automaticamente com os gráficos
+└── Relatório_Tabela_Hash.pdf/  # PDF do relatório
 ```
 
 ---
