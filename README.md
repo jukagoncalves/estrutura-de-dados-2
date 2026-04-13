@@ -12,7 +12,7 @@ Cada projeto está organizado em sua própria pasta, com README individual expli
 
 | Projeto | Descrição | Status |
 |---------|-----------|--------|
-| [Projeto 01 – Tabelas Hash em Textos Reais](./projeto01-tabelas-hash/) | Implementação e comparação de tabelas hash com diferentes funções de hashing aplicadas a textos literários reais | ✅ Concluído |
+| [Projeto 01 – Tabelas Hash em Textos Reais](./projet01-tabelas-hash/) | Implementação e comparação de tabelas hash com diferentes funções de hashing aplicadas a textos literários reais | ✅ Concluído |
 
 ---
 
