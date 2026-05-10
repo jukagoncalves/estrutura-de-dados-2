@@ -10,9 +10,10 @@ Cada projeto está organizado em sua própria pasta, com README individual expli
 
 ## Projetos
 
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| [Projeto 01 – Tabelas Hash em Textos Reais](./projeto01-tabelas-hash/) | Implementação e comparação de tabelas hash com diferentes funções de hashing aplicadas a textos literários reais | ✅ Concluído |
+| Projeto | Descrição | Linguagem | Status |
+|---------|-----------|-----------|--------|
+| [Projeto 01 – Tabelas Hash em Textos Reais](./project01-tabelas-hash/) | Implementação e comparação de tabelas hash com diferentes funções de hashing aplicadas a textos literários reais | Python | ✅ Concluído |
+| [Projeto 02 – Grafos com Lista de Adjacência](./project02_grafos/) | Implementação de grafo não direcionado com lista de adjacência, algoritmos BFS, DFS e identificação de componentes conexas | Java | ✅ Concluído |
 
 ---
 
@@ -20,6 +21,7 @@ Cada projeto está organizado em sua própria pasta, com README individual expli
 
 - Python 3.8+
 - matplotlib
+- Java 17+
 
 ---
 

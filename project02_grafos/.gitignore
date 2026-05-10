@@ -1,0 +1,36 @@
+# ── Compilação Java ───────────────────────────────
+*.class
+*.jar
+*.war
+*.ear
+
+# ── IDEs ──────────────────────────────────────────
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# NetBeans
+nbproject/
+dist/
+build/
+
+# ── Sistema Operacional ───────────────────────────
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
