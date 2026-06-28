@@ -17,7 +17,8 @@ Implementação de uma Árvore Binária de Busca em Python, desenvolvida manualm
 .
 ├── bst.py       # Implementação das classes No e ArvoreBinariaBusca
 ├── main.py      # Interface interativa com menu de 13 opções
-└── README.md    # Este arquivo
+├── README.md    # Este arquivo
+└── Relatório_Tabela_Hash.pdf/  # PDF do relatório
 ```
 
 ---
